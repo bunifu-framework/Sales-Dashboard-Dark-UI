@@ -1,0 +1,45 @@
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Sales Dashboard Dark UI.exe.config
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Sales Dashboard Dark UI.exe
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Sales Dashboard Dark UI.pdb
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales Dashboard Dark UI.csprojResolveAssemblyReference.cache
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales_Dashboard_Dark_UI.Form1.resources
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales_Dashboard_Dark_UI.Properties.Resources.resources
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales Dashboard Dark UI.csproj.GenerateResource.Cache
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales Dashboard Dark UI.exe
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales Dashboard Dark UI.pdb
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Bunifu_UI_v1.5.dll
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Bunifu_UI_v1.5.pdb
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Bunifu_UI_v1.5.xml
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\BunifuDataViz 1.0.dll
+d:\developer zoone\documents\visual studio 2015\Projects\ui\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\BunifuDataViz 1.0.pdb
+F:\Bunifu\2018\Demos\Kim\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Sales Dashboard Dark UI.exe.config
+F:\Bunifu\2018\Demos\Kim\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Sales Dashboard Dark UI.exe
+F:\Bunifu\2018\Demos\Kim\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Sales Dashboard Dark UI.pdb
+F:\Bunifu\2018\Demos\Kim\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\Bunifu\2018\Demos\Kim\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Bunifu\2018\Demos\Kim\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Bunifu.Core.dll
+F:\Bunifu\2018\Demos\Kim\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.pdb
+F:\Bunifu\2018\Demos\Kim\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Bunifu_UI_v1.5.3.pdb
+F:\Bunifu\2018\Demos\Kim\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Bunifu.Core.pdb
+F:\Bunifu\2018\Demos\Kim\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales_Dashboard_Dark_UI.Form1.resources
+F:\Bunifu\2018\Demos\Kim\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales_Dashboard_Dark_UI.Properties.Resources.resources
+F:\Bunifu\2018\Demos\Kim\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales Dashboard Dark UI.csproj.GenerateResource.cache
+F:\Bunifu\2018\Demos\Kim\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales Dashboard Dark UI.csproj.CoreCompileInputs.cache
+F:\Bunifu\2018\Demos\Kim\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales Dashboard Dark UI.csproj.CopyComplete
+F:\Bunifu\2018\Demos\Kim\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales Dashboard Dark UI.exe
+F:\Bunifu\2018\Demos\Kim\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales Dashboard Dark UI.pdb
+F:\Bunifu\2018\Demos\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales_Dashboard_Dark_UI.Form1.resources
+F:\Bunifu\2018\Demos\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales_Dashboard_Dark_UI.Properties.Resources.resources
+F:\Bunifu\2018\Demos\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales Dashboard Dark UI.csproj.GenerateResource.cache
+F:\Bunifu\2018\Demos\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales Dashboard Dark UI.csproj.CoreCompileInputs.cache
+F:\Bunifu\2018\Demos\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales Dashboard Dark UI.exe
+F:\Bunifu\2018\Demos\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales Dashboard Dark UI.pdb
+F:\Bunifu\2018\Demos\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Sales Dashboard Dark UI.exe.config
+F:\Bunifu\2018\Demos\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Sales Dashboard Dark UI.exe
+F:\Bunifu\2018\Demos\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Sales Dashboard Dark UI.pdb
+F:\Bunifu\2018\Demos\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Bunifu.Core.dll
+F:\Bunifu\2018\Demos\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\Bunifu\2018\Demos\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\BunifuDataViz.dll
+F:\Bunifu\2018\Demos\Sales Dashboard Dark UI\Sales Dashboard Dark UI\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Bunifu\2018\Demos\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales Dashboard Dark UI.exe.config
+F:\Bunifu\2018\Demos\Sales Dashboard Dark UI\Sales Dashboard Dark UI\obj\Debug\Sales Dashboard Dark UI.csproj.CopyComplete
