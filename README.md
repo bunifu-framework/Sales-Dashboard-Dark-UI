@@ -1,4 +1,4 @@
-# Sales Daashboard - Dark UI
+# Sales Dashboard - Dark UI
 This is a Bunifu-Theme UI using most of Bunifu Framework Tools.
 
 Steps on getting started
